@@ -12,3 +12,7 @@ desktop.ini
 # 临时文件
 *.tmp
 *~
+
+# 敏感信息（B站 SESSDATA 等登录凭证）
+**/tools/sessdata.txt
+*.sessdata

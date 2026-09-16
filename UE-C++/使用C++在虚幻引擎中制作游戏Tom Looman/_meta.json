@@ -1,0 +1,690 @@
+{
+ "bvid": "BV1csHvzzE41",
+ "title": "使用C++在虚幻引擎中制作游戏Tom Looman",
+ "pages": [
+  {
+   "page": 1,
+   "cid": 32317573641,
+   "title": "1 - Welcome! (Course Structure) _ Tom Looman",
+   "duration": 187
+  },
+  {
+   "page": 2,
+   "cid": 32317508392,
+   "title": "2 - GitHub Repository and Blank C++ Project _ Tom Looman",
+   "duration": 541
+  },
+  {
+   "page": 3,
+   "cid": 32317509063,
+   "title": "3 - Project Walkthrough and first C++ Class UNREAL ENGINE 5.0EDITOR BASICS _ Tom",
+   "duration": 802
+  },
+  {
+   "page": 4,
+   "cid": 32317573891,
+   "title": "4 - Adding Components (Third-person Camera) _ Tom Looman",
+   "duration": 655
+  },
+  {
+   "page": 5,
+   "cid": 32317574281,
+   "title": "5 - Binding Movement Input _ Tom Looman",
+   "duration": 492
+  },
+  {
+   "page": 6,
+   "cid": 32317574438,
+   "title": "6 - Character Setup & Course Content (GitHub Commit Example) _ Tom Looman",
+   "duration": 286
+  },
+  {
+   "page": 7,
+   "cid": 32317572814,
+   "title": "7 - Character Input & Rotations _ Tom Looman",
+   "duration": 1043
+  },
+  {
+   "page": 8,
+   "cid": 32317636691,
+   "title": "8 - Magic Projectile Attack _ Tom Looman",
+   "duration": 1589
+  },
+  {
+   "page": 9,
+   "cid": 32317638419,
+   "title": "9 - Assignment 1 (Character Setup, Magic Projectile, Explosive Barrel) _ Tom Loo",
+   "duration": 114
+  },
+  {
+   "page": 10,
+   "cid": 32317638580,
+   "title": "10 - C++ Interfaces (Interacting with Actors) _ Tom Looman",
+   "duration": 775
+  },
+  {
+   "page": 11,
+   "cid": 32317638862,
+   "title": "11 - ActorComponents & Collision Traces (InteractionComponent) _ Tom Looman",
+   "duration": 2134
+  },
+  {
+   "page": 12,
+   "cid": 32317640170,
+   "title": "12 - Animations and Timers (Improving the Attack) _ Tom Looman",
+   "duration": 476
+  },
+  {
+   "page": 13,
+   "cid": 32317640490,
+   "title": "13 - What is Unreal's Blueprint",
+   "duration": 351
+  },
+  {
+   "page": 14,
+   "cid": 32317702283,
+   "title": "14 - Blueprint Interaction & Casting _ Tom Looman",
+   "duration": 928
+  },
+  {
+   "page": 15,
+   "cid": 32317702805,
+   "title": "15 - Animating in Blueprint _ Tom Looman",
+   "duration": 905
+  },
+  {
+   "page": 16,
+   "cid": 32317703457,
+   "title": "16 - Projectile Blueprint & Collision _ Tom Looman",
+   "duration": 1125
+  },
+  {
+   "page": 17,
+   "cid": 32317704370,
+   "title": "17 - Assignment 1 Solution Review _ Tom Looman",
+   "duration": 618
+  },
+  {
+   "page": 18,
+   "cid": 32317704599,
+   "title": "18 - Hotreload Warning _ Tom Looman",
+   "duration": 26
+  },
+  {
+   "page": 19,
+   "cid": 32317704609,
+   "title": "19 - Debugging C++ & Blueprints (Logging, Breakpoints, Drawing Debug Shapes) _ T",
+   "duration": 1059
+  },
+  {
+   "page": 20,
+   "cid": 32317705296,
+   "title": "20 - Camera Changes & First UMG Widget (Crosshair) _ Tom Looman",
+   "duration": 350
+  },
+  {
+   "page": 21,
+   "cid": 32317705618,
+   "title": "21 - Assignment 2 (Blackhole Projectile, Dash Ability, Targeting) _ Tom Looman",
+   "duration": 625
+  },
+  {
+   "page": 22,
+   "cid": 32317706086,
+   "title": "22 - 'Asserts' for pro-active detection of bugs _ Tom Looman",
+   "duration": 445
+  },
+  {
+   "page": 23,
+   "cid": 32317767744,
+   "title": "23 - Attribute Component (RPG-style) _ Tom Looman",
+   "duration": 1354
+  },
+  {
+   "page": 24,
+   "cid": 32317768509,
+   "title": "24 - Event-based principles with UMG (Health Change Events) _ Tom Looman",
+   "duration": 1026
+  },
+  {
+   "page": 25,
+   "cid": 32317769153,
+   "title": "24 - UMG with Data Bindings (Health Bar) _ Tom Looman",
+   "duration": 695
+  },
+  {
+   "page": 26,
+   "cid": 32317770803,
+   "title": "26 - Animating UMG Widgets _ Tom Looman",
+   "duration": 307
+  },
+  {
+   "page": 27,
+   "cid": 32317771728,
+   "title": "27 - Dealing Damage with Attributes (Explosive Barrel) _ Tom Looman",
+   "duration": 186
+  },
+  {
+   "page": 28,
+   "cid": 32317833309,
+   "title": "28 - Intro & Projectile Collision Fix _ Tom Looman",
+   "duration": 173
+  },
+  {
+   "page": 29,
+   "cid": 32317833359,
+   "title": "29 - Material Basics (Shaders) _ Tom Looman",
+   "duration": 1264
+  },
+  {
+   "page": 30,
+   "cid": 32317834235,
+   "title": "30 - Hit Flash Material & Driving Material parameters through C++ _ Tom Looman",
+   "duration": 694
+  },
+  {
+   "page": 31,
+   "cid": 32317836518,
+   "title": "31 - Simple Dissolve Materials (Textures) _ Tom Looman",
+   "duration": 454
+  },
+  {
+   "page": 32,
+   "cid": 32317836961,
+   "title": "32 - Creating Re-usable Material Functions _ Tom Looman",
+   "duration": 266
+  },
+  {
+   "page": 33,
+   "cid": 32317837119,
+   "title": "33 - Materials for User Interface (UMG) _ Tom Looman",
+   "duration": 521
+  },
+  {
+   "page": 34,
+   "cid": 32317898991,
+   "title": "34 - Assignment 2 Solution Review _ Tom Looman",
+   "duration": 952
+  },
+  {
+   "page": 35,
+   "cid": 32317899523,
+   "title": "35 - Creating Sound Cues _ Tom Looman",
+   "duration": 473
+  },
+  {
+   "page": 36,
+   "cid": 32317899797,
+   "title": "36 - Animation Blueprints & Handling Player Death _ Tom Looman",
+   "duration": 860
+  },
+  {
+   "page": 37,
+   "cid": 32317900319,
+   "title": "37 - Projected 3D UI (Damage Numbers) _ Tom Looman",
+   "duration": 657
+  },
+  {
+   "page": 38,
+   "cid": 32317900917,
+   "title": "38 - Assignment 3 (Health - Damage, Audio, Projectiles, UI) _ Tom Looman",
+   "duration": 442
+  },
+  {
+   "page": 39,
+   "cid": 32317901197,
+   "title": "39 - AI Overview (Behavior Trees, Blackboards, EQS) _ Tom Looman",
+   "duration": 309
+  },
+  {
+   "page": 40,
+   "cid": 32317901053,
+   "title": "40 - Bot Behaviors and Movement _ Tom Looman",
+   "duration": 1421
+  },
+  {
+   "page": 41,
+   "cid": 32317901773,
+   "title": "41 - Custom Check Attack Range Service for BT _ Tom Looman",
+   "duration": 1593
+  },
+  {
+   "page": 42,
+   "cid": 32317902575,
+   "title": "42 - Custom C++ BT Task for Ranged Attacks _ Tom Looman",
+   "duration": 1057
+  },
+  {
+   "page": 43,
+   "cid": 32317964706,
+   "title": "43 - Environment Queries for smarter movement _ Tom Looman",
+   "duration": 1147
+  },
+  {
+   "page": 44,
+   "cid": 32317965979,
+   "title": "44 - Adding Sight with Pawn Sensing Component _ Tom Looman",
+   "duration": 754
+  },
+  {
+   "page": 45,
+   "cid": 32317966583,
+   "title": "45 - Improving Bot Animations & C++ Asserts _ Tom Looman",
+   "duration": 450
+  },
+  {
+   "page": 46,
+   "cid": 32317966811,
+   "title": "46 - Assignment 3 Solution Review _ Tom Looman",
+   "duration": 585
+  },
+  {
+   "page": 47,
+   "cid": 32317967234,
+   "title": "47 - Assignment 4 (Expanding AI Behavior) _ Tom Looman",
+   "duration": 94
+  },
+  {
+   "page": 48,
+   "cid": 32317967159,
+   "title": "48 - EQS to find bot spawnpoints _ Tom Looman",
+   "duration": 649
+  },
+  {
+   "page": 49,
+   "cid": 32317967680,
+   "title": "49 - GameMode with custom AI spawn behavior _ Tom Looman",
+   "duration": 1821
+  },
+  {
+   "page": 50,
+   "cid": 32318228329,
+   "title": "50 - Further AI improvements (Damage, Death, Ragdolling) _ Tom Looman",
+   "duration": 1382
+  },
+  {
+   "page": 51,
+   "cid": 32318228965,
+   "title": "51 - More senses for AI (Reacting to Damage) _ Tom Looman",
+   "duration": 379
+  },
+  {
+   "page": 52,
+   "cid": 32318229293,
+   "title": "52 - Helpful utilities for game framework (static functions) _ Tom Looman",
+   "duration": 532
+  },
+  {
+   "page": 53,
+   "cid": 32318229623,
+   "title": "53 - Improving bot firing logic (weapon accuracy, collision checks) _ Tom Looman",
+   "duration": 727
+  },
+  {
+   "page": 54,
+   "cid": 32318230054,
+   "title": "54 - Damage feedback through Hitflash effect _ Tom Looman",
+   "duration": 285
+  },
+  {
+   "page": 55,
+   "cid": 32318230251,
+   "title": "55 - 3D (Projected) Health bar with C++ _ Tom Looman",
+   "duration": 1811
+  },
+  {
+   "page": 56,
+   "cid": 32318292754,
+   "title": "56 - Updating HUD Widgets (Health, Credits, GameTime) ﻿UMG Learning Resources _",
+   "duration": 915
+  },
+  {
+   "page": 57,
+   "cid": 32318293114,
+   "title": "57 - Setup Proper Player Spawn _ Tom Looman",
+   "duration": 286
+  },
+  {
+   "page": 58,
+   "cid": 32318293545,
+   "title": "58 - Adding Debug Commands _ Tom Looman",
+   "duration": 528
+  },
+  {
+   "page": 59,
+   "cid": 32318293839,
+   "title": "59 - Assignment 4 Solution Review _ Tom Looman",
+   "duration": 263
+  },
+  {
+   "page": 60,
+   "cid": 32318293996,
+   "title": "60 - Refining Player Respawns _ Tom Looman",
+   "duration": 797
+  },
+  {
+   "page": 61,
+   "cid": 32318294533,
+   "title": "62 - Assignment 5 (Credits System, EQS Spawning) _ Tom Looman",
+   "duration": 144
+  },
+  {
+   "page": 62,
+   "cid": 32318294308,
+   "title": "63 - What is GAS and why write our own",
+   "duration": 554
+  },
+  {
+   "page": 63,
+   "cid": 32318294741,
+   "title": "64 - Starting our Action System and first Action (Sprinting) _ Tom Looman",
+   "duration": 1239
+  },
+  {
+   "page": 64,
+   "cid": 32318295209,
+   "title": "65 - Converting the Projectile Attacks to Actions _ Tom Looman",
+   "duration": 1299
+  },
+  {
+   "page": 65,
+   "cid": 32318295964,
+   "title": "67 - Setting up GameplayTags _ Tom Looman",
+   "duration": 862
+  },
+  {
+   "page": 66,
+   "cid": 32318357896,
+   "title": "68 - Comparing Tags in our Action System (Granting and Blocking Tags) _ Tom Loom",
+   "duration": 655
+  },
+  {
+   "page": 67,
+   "cid": 32318358051,
+   "title": "69 - GameplayTags for DOOM-style Door & Keycard system _ Tom Looman",
+   "duration": 416
+  },
+  {
+   "page": 68,
+   "cid": 32318358427,
+   "title": "70 - Parrying Attacks using GameplayTags _ Tom Looman",
+   "duration": 1303
+  },
+  {
+   "page": 69,
+   "cid": 32318359468,
+   "title": "71 - Assignment 5 Solution Review _ Tom Looman",
+   "duration": 732
+  },
+  {
+   "page": 70,
+   "cid": 32318359777,
+   "title": "72 - Creating Buffs & Debuffs (Damage over Time Effect) _ Tom Looman",
+   "duration": 1330
+  },
+  {
+   "page": 71,
+   "cid": 32318360288,
+   "title": "73 - Improving World Interaction with UI Feedback _ Tom Looman",
+   "duration": 919
+  },
+  {
+   "page": 72,
+   "cid": 32318426098,
+   "title": "74 - Assignment 6 (Rage, Thorns, Power-up, Spotted UI) _ Tom Looman",
+   "duration": 240
+  },
+  {
+   "page": 73,
+   "cid": 32318426284,
+   "title": "75 - What is Network Replication",
+   "duration": 921
+  },
+  {
+   "page": 74,
+   "cid": 32318426460,
+   "title": "76 - Networking the world interaction logic (RPCs) _ Tom Looman",
+   "duration": 1489
+  },
+  {
+   "page": 75,
+   "cid": 32318488731,
+   "title": "77 - Networking the Treasure Chest (RepNotify) _ Tom Looman",
+   "duration": 810
+  },
+  {
+   "page": 76,
+   "cid": 32318489211,
+   "title": "78 - Assignment 6 Solution Review _ Tom Looman",
+   "duration": 787
+  },
+  {
+   "page": 77,
+   "cid": 32318490045,
+   "title": "78 - Authority and Actor instances on Clients _ Tom Looman",
+   "duration": 540
+  },
+  {
+   "page": 78,
+   "cid": 32318490320,
+   "title": "79 - Assignment 7 (Replicating Attributes & Power-ups) _ Tom Looman",
+   "duration": 197
+  },
+  {
+   "page": 79,
+   "cid": 32318490431,
+   "title": "79 - Networking the Attributes & UI state (Health) _ Tom Looman",
+   "duration": 1814
+  },
+  {
+   "page": 80,
+   "cid": 32318491606,
+   "title": "80 - Blueprint Networking _ Tom Looman",
+   "duration": 574
+  },
+  {
+   "page": 81,
+   "cid": 32318492053,
+   "title": "80 - Preparing the Actions with on-screen logging _ Tom Looman",
+   "duration": 524
+  },
+  {
+   "page": 82,
+   "cid": 32318492213,
+   "title": "81 - Networking the Action System _ Tom Looman",
+   "duration": 542
+  },
+  {
+   "page": 83,
+   "cid": 32318554117,
+   "title": "81 - Networking UObjects & Actions (Action System) _ Tom Looman",
+   "duration": 1610
+  },
+  {
+   "page": 84,
+   "cid": 32318557328,
+   "title": "82 - Note on RepNotify behavior _ Tom Looman",
+   "duration": 216
+  },
+  {
+   "page": 85,
+   "cid": 32318557548,
+   "title": "83 - Code flow and execution between Clients and Server _ Tom Looman",
+   "duration": 657
+  },
+  {
+   "page": 86,
+   "cid": 32318557824,
+   "title": "84 - Limiting Authority of the Client _ Tom Looman",
+   "duration": 1203
+  },
+  {
+   "page": 87,
+   "cid": 32318619852,
+   "title": "85 - Networking remaining features (Sprint, etc.) _ Tom Looman",
+   "duration": 368
+  },
+  {
+   "page": 88,
+   "cid": 32318620229,
+   "title": "86 - Improving on Event-based UI UNREAL ENGINE 5.0 _ Tom Looman",
+   "duration": 841
+  },
+  {
+   "page": 89,
+   "cid": 32318620610,
+   "title": "88 - Serializing Player Progression (PlayerState) _ Tom Looman",
+   "duration": 692
+  },
+  {
+   "page": 90,
+   "cid": 32318621012,
+   "title": "89 - Serializing World Transforms (World State #1) _ Tom Looman",
+   "duration": 536
+  },
+  {
+   "page": 91,
+   "cid": 32318621458,
+   "title": "90 - Serializing Any Variables Automatically (World State #2) _ Tom Looman",
+   "duration": 856
+  },
+  {
+   "page": 92,
+   "cid": 32318621846,
+   "title": "91 - Serializing Blueprints & Saving via Actor Interaction _ Tom Looman",
+   "duration": 407
+  },
+  {
+   "page": 93,
+   "cid": 32318622068,
+   "title": "92 - Assignment 7 Solution Review _ Tom Looman",
+   "duration": 735
+  },
+  {
+   "page": 94,
+   "cid": 32318622314,
+   "title": "93 - Creating Main Menus with UMG _ Tom Looman",
+   "duration": 1927
+  },
+  {
+   "page": 95,
+   "cid": 32318623297,
+   "title": "94 - Creating In-Game Menus _ Tom Looman",
+   "duration": 742
+  },
+  {
+   "page": 96,
+   "cid": 32318750759,
+   "title": "95 - Setup Widgets & Event-based logic for Buffs & Debuffs _ Tom Looman",
+   "duration": 1112
+  },
+  {
+   "page": 97,
+   "cid": 32318751155,
+   "title": "96 - Finishing Buff Bar & Animated materials for UI _ Tom Looman",
+   "duration": 914
+  },
+  {
+   "page": 98,
+   "cid": 32318751928,
+   "title": "97 - Syncing ActionEffect (Duration) for Multiplayer _ Tom Looman",
+   "duration": 451
+  },
+  {
+   "page": 99,
+   "cid": 32318752214,
+   "title": "98 - Widget Styling (HUD & Menus) _ Tom Looman",
+   "duration": 889
+  },
+  {
+   "page": 100,
+   "cid": 32318752534,
+   "title": "99 - Animation State Machines (Stunned Effect) & C++ AnimInstance _ Tom Looman",
+   "duration": 1302
+  },
+  {
+   "page": 101,
+   "cid": 32318753080,
+   "title": "100 - Blend Poses & Blend Spaces (Floating Sprint Animation) _ Tom Looman",
+   "duration": 860
+  },
+  {
+   "page": 102,
+   "cid": 32318753808,
+   "title": "101 - Status Text for Interactables (UMG) & C++ Loc Text _ Tom Looman",
+   "duration": 1090
+  },
+  {
+   "page": 103,
+   "cid": 32318754086,
+   "title": "102 - Data Tables & Data Assets (Setup for Bot Spawns) _ Tom Looman",
+   "duration": 938
+  },
+  {
+   "page": 104,
+   "cid": 32318754370,
+   "title": "103 - Soft References (Size Map, Reference Viewer) _ Tom Looman",
+   "duration": 786
+  },
+  {
+   "page": 105,
+   "cid": 32318816376,
+   "title": "104 - Primary Assets & Async Loading (Asset Manager) _ Tom Looman",
+   "duration": 1176
+  },
+  {
+   "page": 106,
+   "cid": 32318817173,
+   "title": "105 - Cooking Content & Packaging _ Tom Looman",
+   "duration": 555
+  },
+  {
+   "page": 107,
+   "cid": 32318817475,
+   "title": "106 - Profiling Basics & Stat Commands _ Tom Looman",
+   "duration": 947
+  },
+  {
+   "page": 108,
+   "cid": 32318817715,
+   "title": "107 - Unreal Insights for CPU & LoadTimes _ Tom Looman",
+   "duration": 784
+  },
+  {
+   "page": 109,
+   "cid": 32318818229,
+   "title": "108 - Fixing up log warnings and errors _ Tom Looman",
+   "duration": 791
+  },
+  {
+   "page": 110,
+   "cid": 32318818906,
+   "title": "109 - Improving the SaveGame, Collisions & UI _ Tom Looman",
+   "duration": 906
+  },
+  {
+   "page": 111,
+   "cid": 32318819416,
+   "title": "110 - WARPSQUAD Project Workflow Demo _ Tom Looman",
+   "duration": 1214
+  },
+  {
+   "page": 112,
+   "cid": 32318820111,
+   "title": "111 - Where to go next... _ Tom Looman",
+   "duration": 418
+  },
+  {
+   "page": 113,
+   "cid": 32318820032,
+   "title": "112 - Programming with Subsystems (UGameInstanceSubsystem) _ Tom Looman",
+   "duration": 311
+  },
+  {
+   "page": 114,
+   "cid": 32318881827,
+   "title": "113 - Extending Editor & Project Settings (UDeveloperSettings) _ Tom Looman",
+   "duration": 266
+  }
+ ]
+}
